@@ -50,3 +50,4 @@ public class Veiculo {
         }
     }
 }
+refactor: aplicação de encapsulamento e boas práticas
