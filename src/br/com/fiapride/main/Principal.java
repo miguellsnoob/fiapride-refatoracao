@@ -16,3 +16,4 @@ public class Principal {
                 " | Combustível: " + v1.getCombustivel());
     }
 }
+refactor: aplicação de encapsulamento e boas práticas
